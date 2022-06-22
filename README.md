@@ -9,6 +9,9 @@ Using Macros, This excel spreadsheet can now process Thousands of lines of Stock
  The disadvantage of refactoring code as the original code worked fine before I tried to condense it. Causing me to have to spend extra time and energy to fix something that wasn't originally broken.
  
 ## Results
-From the Data in the VBA Challenge sheet. You can see that while most stocks performed well in 2017, only ENPH and RUN performed well in both 2017 and 2018. Using this data we could invest into either company with hopes of making a profit in 2019 and beyond
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/103524591/175176257-2bf60c0c-5415-4e41-bfaf-471b5bdd2332.png)
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/103524591/175176366-18275bef-bf1d-411e-a26f-b15ddd958723.png)
+
+From the data in the VBA Challenge sheet. You can see that while most stocks performed well in 2017, only ENPH and RUN performed well in both 2017 and 2018. Using this data we could invest into either company with hopes of making a profit in 2019 and beyond
 
 
