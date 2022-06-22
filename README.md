@@ -6,7 +6,7 @@ Using Macros, This excel spreadsheet can now process Thousands of lines of Stock
 ### Challenges and Difficulties Encountered
  While refactoring the original code, I ran into a couple of errors when exchanging information between the arrays. It required reaching out to a Teacher assist to help figure out that I needed to close the If statement first. After I found my error, I was happy with how much cleaner and easier to read my code was.
  
- The disadvantage of refactoring code as the original code worked fine before I tried to condense it. Causing me to have to spend extra time and energy to fix something that wasn't originally broken.
+ The disadvantage of refactoring code was the original code already worked fine before I tried to condense it! When changed code no longer works you have to spend extra time and energy on figuring out a problem that you created. The frustration can cause you to avoid refactoring all together.
  
 ## Results
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/103524591/175176257-2bf60c0c-5415-4e41-bfaf-471b5bdd2332.png)
